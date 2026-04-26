@@ -4,7 +4,7 @@
 
 Dockerized script for bulk downloading official Lithuanian meteorological data from the meteo.lt archive, using the meteo.lt API.
 
-*Docker Hub* repo – https://hub.docker.com/repository/docker/danieliuss/lt_meteo_data/.
+*Docker Hub* repository – https://hub.docker.com/r/danieliuss/lt_meteo_data/.
 
 ## Short backstory:
 
