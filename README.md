@@ -48,15 +48,15 @@ docker run --rm danieliuss/lt_meteo_data --help
 ```
 Output of the `--help` argument:
 
-|     **Argument** |                                         **Description**                                                   |
-| ---------------- | --------------------------------------------------------------------------------------------------------- |
-|   /--h, /--help  | Prints the help message                                                                                   |
-| /--list-stations | Prints all the available station codes                                                                    |
-|     /--start     | Start date (YYYY-MM-DD)                                                                                   |
-|      /--end      | End date (YYYY-MM-DD) (up to but not including)                                                           |
-|    /--stations   | Stations to download: "all" or comma-separated station codes without spaces (e.g. vilniaus-ams,kauno-ams) |
-|    /--workers    | Total number of parallel chunk requests                                                                   |
-|   /--overwrite   | Whether to overwrite the existing station CSV files (y/n)                                                 |
+|   **Argument**  |                                         **Description**                                                   |
+| --------------- | --------------------------------------------------------------------------------------------------------- |
+|   --h, --help   | Prints the help message                                                                                   |
+| --list-stations | Prints all the available station codes                                                                    |
+|     --start     | Start date (YYYY-MM-DD)                                                                                   |
+|      --end      | End date (YYYY-MM-DD) (up to but not including)                                                           |
+|    --stations   | Stations to download: "all" or comma-separated station codes without spaces (e.g. vilniaus-ams,kauno-ams) |
+|    --workers    | Total number of parallel chunk requests                                                                   |
+|   --overwrite   | Whether to overwrite the existing station CSV files (y/n)                                                 |
 
 3. Run the script (in the working directory):
 ```
