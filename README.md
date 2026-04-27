@@ -12,7 +12,7 @@ The main part of the python script used in this assingment was originally create
 
 Originally, the data was to be scraped from the meteorological archive, previously available deep in the source code at https://archyvas.meteo.lt/. After this page went down in the middle of doing this assingment, I was forced to use the heavily restricting meteo.lt API – https://api.meteo.lt/.
 
-*Update (2026-04-27):* https://archyvas.meteo.lt/ went back online but I will stick to using the API.
+***Update (2026-04-27):*** https://archyvas.meteo.lt/ went back online but I will stick to using the API.
 
 ## How the image was created:
 
