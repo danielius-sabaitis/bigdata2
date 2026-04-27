@@ -42,7 +42,7 @@ The image is now ready to be downloaded and run.
 ```
 docker pull danieliuss/lt_meteo_data:latest
 ```
-2. Check the available parameters with `--help`:
+2. Check the available script arguments with `--help`:
 ```
 docker run --rm danieliuss/lt_meteo_data --help
 ```
