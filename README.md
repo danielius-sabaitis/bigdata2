@@ -67,4 +67,4 @@ Enjoy and don't forget to respect the API usage limits.
 
 ## Artificial Intelligence usage disclosure:
 
-AI was used to create the main part behind the scraping code since at first, the data was being scraped from .json files hidden deep in the original archive page. 
+AI was used to create the main part behind the scraping code since at first, the data was being scraped from .json files hidden deep in the source code of the original archive page. 
