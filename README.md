@@ -4,7 +4,8 @@
 
 Dockerized script for bulk downloading meteorological data from the archive of Lithuanian Hydrometeorological Service under the Ministry of Environment (https://meteo.lt/).
 
-*Docker Hub* repository – https://hub.docker.com/r/danieliuss/lt_meteo_data/.
+*Docker Hub* repository – https://hub.docker.com/r/danieliuss/lt_meteo_data/. \
+*Github* repository – https://github.com/danielius-sabaitis/bigdata2/.
 
 ## Short backstory:
 
