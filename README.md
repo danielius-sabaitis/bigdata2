@@ -58,7 +58,7 @@ Output of the `--help` argument:
 |    --workers    | Total number of parallel chunk requests                                                                   |
 |   --overwrite   | Whether to overwrite the existing station CSV files (y/n)                                                 |
 
-3. Run the script (in the working directory):
+3. Run the script (in **your** working directory):
 ```
 docker run --rm -v ${PWD}/meteo_data:/code/meteo_data danieliuss/lt_meteo_data [param1] [param2] ...
 ```
